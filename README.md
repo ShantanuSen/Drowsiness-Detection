@@ -1,2 +1,6 @@
 # Drowsiness-Detection
 Drowsiness detection for the perfection of brain computer interface using Viola-jones algorithm
+
+Abstract - Security and reconnaissance applications are prominent BCI paradigms which are less complex and sophisticated if there is no contamination in Electroencephalogram (EEG) signal. The better the quality of EEG signal ensures the better the performance (better Information Transfer Rate (ITR), high Signal to Noise Ratio (SNR), high Bandwidth (BW), and so on) of BCI paradigms. Drowsiness is one of the major contamination in EEG signal that hampers the operation of modern BCI paradigms. In this research, a non-intrusive machine vision based concept is used to determine the drowsiness from the patient which ensure the drowsy free EEG signal. In this proposed system, a camera which placed in a way that it records subjects (BCI Users) eye movement in every time as well as it can monitor the open and close state of eye. Viola-jones Algorithm is applicable for the detection of face as well as state of eye (Open, closed or semi-open) which is the key concern for the detection of drowsiness from the patient's EEG signal. After detecting this drowsiness, decision can be easily made for the perfect operation of BCI.
+
+Full paper link: https://ieeexplore.ieee.org/document/7873106
